@@ -1,0 +1,30 @@
+2025-03-02 19:25:18,878 - VRChatAutoInvite.ConfigManager - INFO - Loaded configuration from config.json
+2025-03-02 19:25:19,026 - VRChatAutoInvite - INFO - Started monitoring for code changes in C:\Users\jared\OneDrive\Desktop\AutoInviteApp
+2025-03-02 19:25:19,027 - VRChatAutoInvite.PluginManager - INFO - Loaded plugin: Example Plugin
+2025-03-02 19:25:19,027 - VRChatAutoInvite.ConfigManager - INFO - Loaded configuration from config.json
+2025-03-02 19:25:20,037 - VRChatAutoInvite - INFO - Attempting auto-login...
+2025-03-02 19:25:20,046 - VRChatAutoInvite.Logic - INFO - No saved credentials found
+2025-03-02 19:26:08,940 - VRChatAutoInvite - INFO - Code change detected in C:\Users\jared\OneDrive\Desktop\AutoInviteApp\logic.py
+2025-03-02 19:26:25,987 - VRChatAutoInvite - INFO - Code change detected in C:\Users\jared\OneDrive\Desktop\AutoInviteApp\logic.py
+2025-03-02 19:27:00,208 - VRChatAutoInvite - INFO - Code change detected in C:\Users\jared\OneDrive\Desktop\AutoInviteApp\logic.py
+2025-03-02 19:27:18,077 - VRChatAutoInvite - INFO - Code change detected in C:\Users\jared\OneDrive\Desktop\AutoInviteApp\logic.py
+2025-03-02 19:27:49,447 - VRChatAutoInvite - INFO - Code change detected in C:\Users\jared\OneDrive\Desktop\AutoInviteApp\logic.py
+2025-03-02 19:27:56,781 - VRChatAutoInvite - INFO - Restarting application...
+2025-03-02 19:27:56,782 - VRChatAutoInvite - INFO - Stopped monitoring for code changes
+2025-03-02 19:27:57,348 - VRChatAutoInvite.ConfigManager - INFO - Loaded configuration from config.json
+2025-03-02 19:27:57,487 - VRChatAutoInvite - INFO - Started monitoring for code changes in C:\Users\jared\OneDrive\Desktop\AutoInviteApp
+2025-03-02 19:27:57,488 - VRChatAutoInvite.PluginManager - INFO - Loaded plugin: Example Plugin
+2025-03-02 19:27:57,489 - VRChatAutoInvite.ConfigManager - INFO - Loaded configuration from config.json
+2025-03-02 19:27:58,496 - VRChatAutoInvite - INFO - Attempting auto-login...
+2025-03-02 19:27:58,502 - VRChatAutoInvite.Logic - INFO - No saved credentials found
+2025-03-02 19:37:24,955 - VRChatAutoInvite - INFO - Stopped monitoring for code changes
+2025-03-02 19:37:24,955 - VRChatAutoInvite.Logic - INFO - Cleaning up resources...
+2025-03-02 19:37:24,957 - VRChatAutoInvite.Logic - INFO - Log watcher is not running
+2025-03-02 19:37:24,958 - VRChatAutoInvite.Logic - INFO - Cleanup complete
+2025-03-02 19:37:33,877 - VRChatAutoInvite.ConfigManager - INFO - Loaded configuration from config.json
+2025-03-02 19:37:34,107 - VRChatAutoInvite - INFO - Started monitoring for code changes in C:\Users\jared\OneDrive\Desktop\AutoInviteApp
+2025-03-02 19:37:34,110 - VRChatAutoInvite.PluginManager - INFO - Loaded plugin: Example Plugin
+2025-03-02 19:37:34,110 - VRChatAutoInvite.ConfigManager - INFO - Loaded configuration from config.json
+2025-03-02 19:37:35,121 - VRChatAutoInvite - INFO - Attempting auto-login...
+2025-03-02 19:37:35,132 - VRChatAutoInvite.Logic - INFO - No saved credentials found
+2025-03-02 19:40:50,599 - VRChatAutoInvite - INFO - Stopped monitoring for code changes
