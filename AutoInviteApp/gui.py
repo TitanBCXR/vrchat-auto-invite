@@ -47,8 +47,6 @@ class VRChatAutoInviteGUI:
         
         # Set up the main window
         self.root.title("VRChat Auto Invite")
-        self.root.geometry("900x700")
-        self.root.minsize(900, 700)
         
         # Apply modern theme
         sv_ttk.set_theme("dark")  # Use "light" or "dark"
@@ -78,6 +76,17 @@ class VRChatAutoInviteGUI:
         
         # Set up status bar
         self.create_status_bar()
+        
+        # Calculate dynamic window size based on required size after UI creation
+        self.root.update_idletasks()
+        req_width = self.root.winfo_reqwidth()
+        req_height = self.root.winfo_reqheight()
+        screen_width = self.root.winfo_screenwidth()
+        screen_height = self.root.winfo_screenheight()
+        window_width = min(max(req_width, int(screen_width * 0.8)), screen_width)
+        window_height = min(max(req_height, int(screen_height * 0.8)), screen_height)
+        self.root.geometry(f"{window_width}x{window_height}")
+        self.root.minsize(req_width, req_height)
         
         # Start monitoring for code changes
         self.app_reloader.start_monitoring(self.on_code_change_detected)
